@@ -60,6 +60,14 @@ You may request deletion of your account and associated personal information by 
 
 We will review the request and delete eligible personal information where required and legally permissible. Certain order records may be retained where necessary for legal, accounting, fraud-prevention, or dispute-resolution purposes. A request does not mean deletion has already occurred; we may verify the request before acting.
 
+## Account and Data Deletion
+
+To request deletion of your AQAS Food Mart account and associated personal information, email **smartvoucherpk@gmail.com** with the subject “AQAS Food Mart — Account and Data Deletion Request”. Include the email address associated with your account and enough information for us to identify the account. Do not send your password.
+
+You may request deletion of eligible personal information without deleting your account by emailing the same address and specifying which information you want deleted. We may need to retain certain order records where required for legal, accounting, fraud-prevention, dispute-resolution, or other lawful purposes. We may verify your identity before processing a request. We will review requests and respond as reasonably practicable; sending a request does not mean deletion has already occurred.
+
+If you cannot access your account, you can still submit a request using the email above. Please do not include sensitive information beyond what is reasonably needed to identify your account.
+
 ## 8. Data Security
 
 We use reasonable measures intended to protect information against unauthorised access, loss, misuse, or alteration. However, no internet transmission or electronic storage system can be guaranteed completely secure. Protect access to your device and account and contact us if you believe your account has been used without authorisation.
